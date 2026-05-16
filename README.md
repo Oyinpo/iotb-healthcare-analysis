@@ -32,7 +32,7 @@ However, the analytics uncovered several high-impact operational and clinical co
 
 
 
-# **Business Objective**
+## **Business Objective**
 
 This project was designed to transform raw healthcare records into actionable business intelligence using:
 
@@ -125,7 +125,7 @@ This indicates no measurable gender disparity in healthcare access or utilizatio
 
 ---
 
-# **Age Group Analysis**
+## **Age Group Analysis**
 
 | Age Group | Admissions |
 | Under 18 | 116 |
@@ -151,7 +151,7 @@ This demographic shift will likely intensify over the next decade and materially
 
 ---
 
-**Medical Condition Intelligence**
+## **Medical Condition Intelligence**
 
 ***Most Common Conditions***
 
@@ -173,7 +173,7 @@ The hospital lacks a dominant specialty identity.
 
 
 
-# ***Revenue by Medical Condition***
+## ***Revenue by Medical Condition***
 
 | Condition | Total Revenue |
 |----------|---------------|

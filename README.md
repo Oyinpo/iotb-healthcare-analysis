@@ -127,11 +127,11 @@ This indicates no measurable gender disparity in healthcare access or utilizatio
 
 | Age Group | Admissions |
 |--------|----------|
-| Under 18 | 116 |
-| 18–34 | 13,485 |
-| 35–49 | 12,154 |
-| 50–64 | 12,288 |
-| 65+ | 16,923 |
+| Under 18 | 886 |
+| 19–35 | 13,519 |
+| 36–60 | 20,389 |
+| 60+ | 20,172 |
+
 
 <img width="1314" height="601" alt="Screenshot 2026-05-15 214920" src="https://github.com/user-attachments/assets/8d0c5721-53fd-4741-be8a-3b273fd08d5c" />
 

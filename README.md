@@ -1,4 +1,4 @@
-### **IOTB TECH Hospital — Healthcare Data Analytics Report**
+# **IOTB TECH Hospital — Healthcare Data Analytics Report**
 
 ## **Executive Summary**
 

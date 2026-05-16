@@ -1,6 +1,6 @@
-**IOTB TECH Hospital — Healthcare Data Analytics Report**
+### **IOTB TECH Hospital — Healthcare Data Analytics Report**
 
-**Executive Summary**
+## **Executive Summary**
 
 Between January 2019 and May 2024, IOTB TECH Hospital processed **54,966** unique patient admissions, generating **$1.404 billion** in total hospital revenue thus averaging approximately **$25,540** per patient encounter.
 
@@ -19,7 +19,7 @@ However, the analytics uncovered several high-impact operational and clinical co
 3. Patients aged ***65+ account for 30.8% of all admissions,*** signaling a rapidly ageing patient base.
 
 
-***Overall Business Health***
+## ***Overall Business Health***
 
 | Area | Assessment |
 |----------|-----------------|
@@ -32,7 +32,7 @@ However, the analytics uncovered several high-impact operational and clinical co
 
 
 
-**Business Objective**
+# **Business Objective**
 
 This project was designed to transform raw healthcare records into actionable business intelligence using:
 
@@ -59,7 +59,7 @@ The goal was to help hospital leadership better understand:
 
 ---
 
-**Data Engineering & Preparation**
+## **Data Engineering & Preparation**
 
 Before analysis, the dataset underwent full preprocessing and validation.
 
@@ -73,6 +73,8 @@ _Metric	Result_
 - Incorrect Data Types	None
 - Date Range	Jan 2019 – May 2024.
 
+
+
 <img width="1896" height="729" alt="Screenshot 2026-05-15 214102" src="https://github.com/user-attachments/assets/65ec38c6-0116-446b-bef6-7e2a1713dd24" />
 
 
@@ -85,6 +87,8 @@ _Metric	Result_
 | Billing Amount | Currency (₦#,##0.00) |
 | Admission Date | Date |
 | Discharge Date | Date.|
+
+
 
 
 
@@ -103,7 +107,7 @@ Length of Stay=Discharge Date−Admission Date
 
 ---
 
-**Patient & Demographic Analysis**
+## **Patient & Demographic Analysis**
 
 ***Gender Distribution***
 
@@ -121,7 +125,7 @@ This indicates no measurable gender disparity in healthcare access or utilizatio
 
 ---
 
-**Age Group Analysis**
+# **Age Group Analysis**
 
 | Age Group | Admissions |
 | Under 18 | 116 |
@@ -169,7 +173,7 @@ The hospital lacks a dominant specialty identity.
 
 
 
-***Revenue by Medical Condition***
+# ***Revenue by Medical Condition***
 
 | Condition | Total Revenue |
 |----------|---------------|
@@ -179,6 +183,8 @@ The hospital lacks a dominant specialty identity.
 | Hypertension | ₦233.4M |
 | Asthma | ₦233.1M |
 | Cancer | ₦229.9M |
+
+
 
 <img width="834" height="307" alt="image" src="https://github.com/user-attachments/assets/49702923-aa2d-4961-89a5-29f581a51d34" />
 
@@ -198,7 +204,8 @@ This suggests strong opportunities for:
 
 ---
 
-**Operational Efficiency Analysis**
+
+## **Operational Efficiency Analysis**
 
 ***Length of Stay by Condition***
 
@@ -232,7 +239,7 @@ Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 ---
 
 
-**Revenue & Insurance Analytics**
+## **Revenue & Insurance Analytics**
 
 ***Total Hospital Revenue***
 
@@ -266,7 +273,7 @@ No provider contributes disproportionately to cash flow risk, protecting the hos
 ---
 
 
-***Admission Revenue***
+## ***Admission Revenue***
 
 | Admission Type | Revenue |
 |----------|-------------|
@@ -291,7 +298,7 @@ _ Cancellation reduction systems
 ---
 
 
-**Diagnostic & Laboratory Risk Analysis**
+## **Diagnostic & Laboratory Risk Analysis**
 ***Test Result Distribution***
 | Result	| Count |	Share |
 |---------|----------|--------|
@@ -322,15 +329,19 @@ A full independent laboratory audit should be commissioned within 30 days.
 ---
 
 
-**Medication Utilization Analysis**
+## **Medication Utilization Analysis**
+
 
 ***Most Prescribed Medications***
+
 
 <img width="1325" height="621" alt="Screenshot 2026-05-15 215422" src="https://github.com/user-attachments/assets/efff8802-865b-46ec-8f81-1b80c0b7bbec" />
 
 
 
-*Medication Revenue*
+***Medication Revenue***
+
+
 <img width="1441" height="602" alt="Screenshot 2026-05-15 215440" src="https://github.com/user-attachments/assets/40add75c-9517-4b99-a6c0-3769d4cde3b6" />
 
 
@@ -341,7 +352,7 @@ Despite being prescribed less frequently than Lipitor, Ibuprofen generates highe
 
 ---
 
-**Strategic Recommendations**
+## **Strategic Recommendations**
 1. Expand Capacity Beyond Current Ceiling.
 
 Revenue growth has stalled due to operational saturation.
@@ -394,7 +405,7 @@ Protecting elective throughput should become a core operational KPI.
 
 ---
 
-**Tools & Technologies Used**
+## **Tools & Technologies Used**
 
 - Microsoft Excel
 - Pivot Tables
@@ -407,7 +418,7 @@ Protecting elective throughput should become a core operational KPI.
 
 ---
 
-**Conclusion**
+## **Conclusion**
 
 This project demonstrates how healthcare analytics can move beyond reporting into strategic decision intelligence.
 

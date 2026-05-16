@@ -8,7 +8,7 @@ While the hospital demonstrates strong financial stability, the analysis reveals
 
 Operationally, the hospital maintains a well-diversified patient and payer portfolio:
 
-1. Gender distribution is effectively balanced (50/50).
+s1. Gender distribution is effectively balanced (50/50).
 2. Insurance revenue is evenly spread across five providers.
 3. No single medical condition dominates admissions volume.
 
@@ -90,10 +90,8 @@ _Metric	Result_
 
 
 
-
-
-
 **Calculated Fields**
+
 ***Length of Stay (LOS)***
 
 Length of Stay=Discharge Date−Admission Date
@@ -243,7 +241,7 @@ Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 
 ***Total Hospital Revenue***
 
-## **$1.404 Billion**
+## **₦1.404 Billion**
 
 
 <img width="1424" height="619" alt="Screenshot 2026-05-15 215117" src="https://github.com/user-attachments/assets/72226d05-1c63-471f-a390-1a7f3caf35c8" />
@@ -277,9 +275,9 @@ No provider contributes disproportionately to cash flow risk, protecting the hos
 
 | Admission Type | Revenue |
 |----------|-------------|
-| Elective | $473.1M |
-| Urgent | $469.2M |
-| Emergency | $461.7M |
+| Elective | ₦473.1M |
+| Urgent | ₦469.2M |
+| Emergency | ₦461.7M |
 
 <img width="1390" height="607" alt="Screenshot 2026-05-15 215341" src="https://github.com/user-attachments/assets/00a132ce-0369-4296-b760-0d8647af8920" />
 
@@ -290,16 +288,19 @@ Elective procedures remain the hospital’s most profitable and operationally pr
 
 Management should prioritize:
 
-_ Theatre utilization optimization
-_ Elective scheduling efficiency
-_ Cancellation reduction systems
+- Theatre utilization optimization
+- Elective scheduling efficiency
+- Cancellation reduction systems
 
 
 ---
 
 
 ## **Diagnostic & Laboratory Risk Analysis**
+
 ***Test Result Distribution***
+
+
 | Result	| Count |	Share |
 |---------|----------|--------|
 | Abnormal	| 18,437 |	33.5% |

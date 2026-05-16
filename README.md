@@ -57,6 +57,7 @@ The goal was to help hospital leadership better understand:
 - Operational bottlenecks.
 
 
+---
 
 **Data Engineering & Preparation**
 
@@ -73,6 +74,8 @@ _Metric	Result_
 - Date Range	Jan 2019 – May 2024.
 
 <img width="1896" height="729" alt="Screenshot 2026-05-15 214102" src="https://github.com/user-attachments/assets/65ec38c6-0116-446b-bef6-7e2a1713dd24" />
+
+
 
 
 ***Formatting Applied***
@@ -98,6 +101,8 @@ Length of Stay=Discharge Date−Admission Date
 | Maximum LOS | 30 Days |
 
 
+---
+
 **Patient & Demographic Analysis**
 
 ***Gender Distribution***
@@ -113,6 +118,8 @@ Patient access remains highly equitable:
 
 This indicates no measurable gender disparity in healthcare access or utilization.
 
+
+---
 
 **Age Group Analysis**
 
@@ -138,6 +145,7 @@ This demographic shift will likely intensify over the next decade and materially
 - Insurance reimbursement structures
 
 
+---
 
 **Medical Condition Intelligence**
 
@@ -157,6 +165,8 @@ This demographic shift will likely intensify over the next decade and materially
 The remarkably balanced distribution reduces concentration risk but also highlights a strategic weakness:
 
 The hospital lacks a dominant specialty identity.
+
+
 
 
 ***Revenue by Medical Condition***
@@ -185,6 +195,9 @@ This suggests strong opportunities for:
 - Long-term outpatient retention models.
 - Diabetes Centers of Excellence.
 
+
+---
+
 **Operational Efficiency Analysis**
 
 ***Length of Stay by Condition***
@@ -198,7 +211,10 @@ This suggests strong opportunities for:
 | Hypertension | 15.44 Days |
 | Diabetes | 15.43 Days |
 
+
 <img width="700" height="301" alt="image" src="https://github.com/user-attachments/assets/de22e324-6f87-493c-ae35-efdfb4c09377" />
+
+
 
 ***Critical Operational Finding***
 
@@ -211,7 +227,10 @@ Asthma patients staying longer than Cancer patients is clinically counterintuiti
 
 Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 
+
+
 ---
+
 
 **Revenue & Insurance Analytics**
 
@@ -243,7 +262,9 @@ Revenue diversification is exceptionally healthy.
 
 No provider contributes disproportionately to cash flow risk, protecting the hospital from payer concentration exposure.
 
+
 ---
+
 
 ***Admission Revenue***
 
@@ -266,7 +287,9 @@ _ Theatre utilization optimization
 _ Elective scheduling efficiency
 _ Cancellation reduction systems
 
+
 ---
+
 
 **Diagnostic & Laboratory Risk Analysis**
 ***Test Result Distribution***
@@ -306,6 +329,7 @@ A full independent laboratory audit should be commissioned within 30 days.
 <img width="1325" height="621" alt="Screenshot 2026-05-15 215422" src="https://github.com/user-attachments/assets/efff8802-865b-46ec-8f81-1b80c0b7bbec" />
 
 
+
 *Medication Revenue*
 <img width="1441" height="602" alt="Screenshot 2026-05-15 215440" src="https://github.com/user-attachments/assets/40add75c-9517-4b99-a6c0-3769d4cde3b6" />
 
@@ -315,6 +339,7 @@ A full independent laboratory audit should be commissioned within 30 days.
 Despite being prescribed less frequently than Lipitor, Ibuprofen generates higher revenue, indicating stronger association with higher-complexity or higher-intensity treatment episodes.
 
 
+---
 
 **Strategic Recommendations**
 1. Expand Capacity Beyond Current Ceiling.
@@ -367,6 +392,8 @@ Elective care is:
 Protecting elective throughput should become a core operational KPI.
 
 
+---
+
 **Tools & Technologies Used**
 
 - Microsoft Excel
@@ -377,6 +404,8 @@ Protecting elective throughput should become a core operational KPI.
 - KPI Reporting
 - Business Intelligence Analysis
 
+
+---
 
 **Conclusion**
 

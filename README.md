@@ -36,25 +36,25 @@ However, the analytics uncovered several high-impact operational and clinical co
 
 This project was designed to transform raw healthcare records into actionable business intelligence using:
 
-_ Microsoft Excel
-_ Pivot Tables
-_ Pivot Charts
-_ Data Cleaning
-_ Healthcare Analytics
-_ Operational KPI Analysis.
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Healthcare Analytics
+- Operational KPI Analysis.
 
 
 
 
 The goal was to help hospital leadership better understand:
 
-_ Patient behavior
-_ Admission patterns
-_ Revenue drivers
-_ Insurance performance
-_ Diagnostic trends
-_ Medication utilization
-_ Operational bottlenecks.
+- Patient behavior
+- Admission patterns
+- Revenue drivers
+- Insurance performance
+- Diagnostic trends
+- Medication utilization
+- Operational bottlenecks.
 
 
 
@@ -64,20 +64,20 @@ Before analysis, the dataset underwent full preprocessing and validation.
 
 ***Data Quality Audit***
 _Metric	Result_
-_ Original Records	55,500
-_ Duplicate Records Removed	534
-_ Final Clean Dataset	54,966
-_ Missing Values	0
-_ Blank Rows	None
-_ Incorrect Data Types	None
-_ Date Range	Jan 2019 – May 2024.
+- Original Records	55,500.
+- Duplicate Records Removed	534
+- Final Clean Dataset	54,966
+- Missing Values	0
+- Blank Rows	None
+- Incorrect Data Types	None
+- Date Range	Jan 2019 – May 2024.
 
 <img width="1896" height="729" alt="Screenshot 2026-05-15 214102" src="https://github.com/user-attachments/assets/65ec38c6-0116-446b-bef6-7e2a1713dd24" />
 
 
 ***Formatting Applied***
 
-|***Column | Applied Format*** |
+|Column | Applied Format |
 |----------|-----------------|
 | Billing Amount | Currency (₦#,##0.00) |
 | Admission Date | Date |
@@ -99,6 +99,7 @@ Length of Stay=Discharge Date−Admission Date
 
 
 **Patient & Demographic Analysis**
+
 ***Gender Distribution***
 
 Patient access remains highly equitable:
@@ -131,10 +132,10 @@ Patients aged 60+ represent the hospital’s largest admission cohort (30.8%), e
 
 This demographic shift will likely intensify over the next decade and materially impact:
 
-_ Bed occupancy
-_ Staffing requirements
-_ Care complexity
-_ Insurance reimbursement structures
+- Bed occupancy
+- Staffing requirements
+- Care complexity
+- Insurance reimbursement structures
 
 
 
@@ -179,11 +180,10 @@ Although Arthritis is slightly more prevalent, Diabetes generates the highest ov
 
 This suggests strong opportunities for:
 
-_ Endocrinology expansion.
-_ Chronic disease management programs.
-_ Long-term outpatient retention models.
-_ Diabetes Centers of Excellence.
-
+- Endocrinology expansion.
+- Chronic disease management programs.
+- Long-term outpatient retention models.
+- Diabetes Centers of Excellence.
 
 **Operational Efficiency Analysis**
 
@@ -204,13 +204,14 @@ _ Diabetes Centers of Excellence.
 
 Asthma patients staying longer than Cancer patients is clinically counterintuitive and suggests:
 
-_ Weak discharge coordination.
-_ Inadequate outpatient follow-up systems.
-_ Delayed trans ition care.
-_ Overreliance on inpatient monitoring.
+- Weak discharge coordination.
+- Inadequate outpatient follow-up systems.
+- Delayed trans ition care.
+- Overreliance on inpatient monitoring.
 
 Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 
+---
 
 **Revenue & Insurance Analytics**
 
@@ -218,8 +219,11 @@ Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 
 ## **$1.404 Billion**
 
+
 <img width="1424" height="619" alt="Screenshot 2026-05-15 215117" src="https://github.com/user-attachments/assets/72226d05-1c63-471f-a390-1a7f3caf35c8" />
 
+
+---
 
 ***Revenue by Insurance Provider***
 | Provider | Revenue |
@@ -238,6 +242,8 @@ Reducing Asthma LOS by even one day could recover 9,000+ annual bed-days.
 Revenue diversification is exceptionally healthy.
 
 No provider contributes disproportionately to cash flow risk, protecting the hospital from payer concentration exposure.
+
+---
 
 ***Admission Revenue***
 
@@ -260,13 +266,15 @@ _ Theatre utilization optimization
 _ Elective scheduling efficiency
 _ Cancellation reduction systems
 
+---
 
 **Diagnostic & Laboratory Risk Analysis**
 ***Test Result Distribution***
-Result	Count	Share
-Abnormal	18,437	33.5%
-Normal	18,331	33.3%
-Inconclusive	18,198	33.1%
+| Result	| Count |	Share |
+|---------|----------|--------|
+| Abnormal	| 18,437 |	33.5% |
+| Normal	| 18,331	| 33.3% |
+| Inconclusive	| 18,198	| 33.1% |
 
 <img width="1395" height="625" alt="Screenshot 2026-05-15 215400" src="https://github.com/user-attachments/assets/0bd01198-b356-4425-9b17-24be93a1de73" />
 
@@ -277,15 +285,18 @@ The near-perfect three-way distribution is statistically improbable in real clin
 
 This strongly indicates possible:
 
-_ Laboratory calibration inconsistencies.
-_ Classification standardization errors.
-_ Diagnostic QA issues.
-_ Data entry normalization problems.
+- Laboratory calibration inconsistencies.
+- Classification standardization errors.
+- Diagnostic QA issues.
+- Data entry normalization problems.
 
 
 **Immediate Recommendation**
 
 A full independent laboratory audit should be commissioned within 30 days.
+
+
+---
 
 
 **Medication Utilization Analysis**
@@ -312,17 +323,17 @@ Revenue growth has stalled due to operational saturation.
 
 
 ***Recommended Actions***
-_ Expand bed capacity.
-_ Launch outpatient specialty centers.
-_ Increase elective procedural throughput.
+- Expand bed capacity.
+- Launch outpatient specialty centers.
+- Increase elective procedural throughput.
 
 2. Establish Specialized Chronic Disease Centers.
 
 Prioritize:
 
-_ Diabetes
-_ Cancer
-_ Geriatric care
+- Diabetes
+- Cancer
+- Geriatric care
 
 These represent the strongest long-term clinical and financial growth opportunities.
 
@@ -331,40 +342,40 @@ These represent the strongest long-term clinical and financial growth opportunit
 
 Introduce:
 
-_ Home-health pathways.
-_ Pulmonology step-down care.
-_ Digital patient monitoring.
+- Home-health pathways.
+- Pulmonology step-down care.
+- Digital patient monitoring.
 
 
 4. Audit Diagnostic Infrastructure Immediately
 
 The abnormal/inconclusive result pattern creates:
 
-_ Financial risk.
-_ Operational inefficiency.
-_ Reputational exposure.
+- Financial risk.
+- Operational inefficiency.
+- Reputational exposure.
 
 
 5. Optimize Elective Procedure Operations
 
 Elective care is:
 
-_ Most profitable
-_ Most schedulable
-_ Most scalable.
+- Most profitable
+- Most schedulable
+- Most scalable.
 
 Protecting elective throughput should become a core operational KPI.
 
 
 **Tools & Technologies Used**
 
-_ Microsoft Excel
-_ Pivot Tables
-_ Pivot Charts
-_ Data Cleaning
-_ Healthcare Analytics
-_ KPI Reporting
-_ Business Intelligence Analysis
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Healthcare Analytics
+- KPI Reporting
+- Business Intelligence Analysis
 
 
 **Conclusion**
@@ -373,10 +384,10 @@ This project demonstrates how healthcare analytics can move beyond reporting int
 
 Using Excel-based business intelligence techniques, the analysis uncovered:
 
-_ Revenue plateau risks.
-_ Operational inefficiencies.
-_ Geriatric care pressure.
-_ Diagnostic QA concerns.
-_ Chronic disease monetization opportunities.
+- Revenue plateau risks.
+- Operational inefficiencies.
+- Geriatric care pressure.
+- Diagnostic QA concerns.
+- Chronic disease monetization opportunities.
 
 The result is a practical executive-level healthcare analytics framework capable of supporting operational planning, financial optimization, and long-term strategic positioning for modern healthcare systems.
